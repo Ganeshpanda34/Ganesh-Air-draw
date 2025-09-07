@@ -12,7 +12,7 @@
 
 Experience the future of digital art with **AirDraw**, a web application that transforms your hand into a virtual paintbrush. Using just your webcam, you can draw in the air with intuitive gestures, bringing your ideas to life in a magical, touchless interface.
 
-**[➡️ View Live Demo](https://your-github-username.github.io/AirDraw/)** 
+
 
 ---
 
@@ -31,7 +31,7 @@ Experience the future of digital art with **AirDraw**, a web application that tr
 
 -   **Frontend:** HTML5, CSS3, modern JavaScript (ES6)
 -   **UI Framework:** [Bootstrap 5](https://getbootstrap.com/) for a responsive layout and professional components.
--   **Core AI Technology:** [Google's MediaPipe Hands](https://google.github.io/mediapipe/solutions/hands) for robust, real-time hand and finger tracking.
+-   **Core AI Technology:** [Google's MediaPipe Hands] for robust, real-time hand and finger tracking.
 -   **Rendering:** HTML5 `<canvas>` for displaying the video feed, drawing overlay, and final artwork.
 
 ## ⚙️ How It Works
@@ -76,3 +76,4 @@ This project is self-contained and requires no complex build steps.
 ---
 
 **Copyright © 2025 Ganesh. All Rights Reserved.**
+
